@@ -1,20 +1,15 @@
-### Hi there 👋
+# Hello there 👋
 
-<!--
-**kachmashk/kachmashk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![kachmashk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachmashk&count_private=true&theme=dracula)](https://github.com/kachmashk/readme)
 
-Here are some ideas to get you started:
+[![kachmashk's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kachmashk&langs_count=3&theme=dracula)](https://github.com/kachmashk/readme)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-[![kachmashk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachmashk&count_private=true)](https://github.com/kachmashk/readme)
+## Visitors counter
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kachmashk&langs_count=8&count_private=true)](https://github.com/kachmashk/readme)
+<img src="https://profile-counter.glitch.me/kachmashk/count.svg" />
+
+<!-- ---
+
+## Socials -->
