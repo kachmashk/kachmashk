@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![kachmashk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachmashk)](https://github.com/kachmashk/readme)
+[![kachmashk's GitHub stats](https://github-readme-stats.vercel.app/api?username=kachmashk&count_private=true)](https://github.com/kachmashk/readme)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kachmashk&langs_count=8&count_private=true)](https://github.com/kachmashk/readme)
