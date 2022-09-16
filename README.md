@@ -25,29 +25,13 @@ Hello there, I'm Oskar. I'm front-end developer currently based in Wroclaw.
 
 # 💡 Personal Projects
 
-<a href="https://github.com/kachmashk/old-basketprotocol">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=kachmashk&repo=old-basketprotocol&theme=dracula"
-  />
-</a>
+[![old-basketprotocol](https://github-readme-stats.vercel.app/api/pin/?username=kachmashk&repo=old-basketprotocol&theme=dracula)](https://github.com/kachmashk/old-basketprotocol)
 
-<a href="https://github.com/kachmashk/csgo_map_picker">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=kachmashk&repo=csgo_map_picker&theme=dracula"
-  />
-</a>
+[![csgo_map_picker](https://github-readme-stats.vercel.app/api/pin/?username=kachmashk&repo=csgo_map_picker&theme=dracula)](https://github.com/kachmashk/csgo_map_picker)
 
-<a href="https://github.com/kachmashk/openweather-mobile">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=kachmashk&repo=openweather-mobile&theme=dracula"
-  />
-</a>
+[![openweather-mobile](https://github-readme-stats.vercel.app/api/pin/?username=kachmashk&repo=openweather-mobile&theme=dracula)](https://github.com/kachmashk/openweather-mobile)
 
-<a href="https://github.com/kachmashk/openweather-api">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=kachmashk&repo=openweather-api&theme=dracula"
-  />
-</a>
+[![openweather-api](https://github-readme-stats.vercel.app/api/pin/?username=kachmashk&repo=openweather-api&theme=dracula)](https://github.com/kachmashk/openweather-api)
 
 <br />
 
