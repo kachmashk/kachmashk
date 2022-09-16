@@ -2,9 +2,9 @@
 
 Hello there, I'm Oskar. I'm front-end developer currently based in Wroclaw.
 
----
+<br />
 
-## 👨🏻‍💻 Skills
+# 👨🏻‍💻 Skills
 
 - 🗣 JavaScript, TypeScript, C#, Dart
 - ⚙️ React-Native, ReactJs, Flutter
@@ -13,9 +13,9 @@ Hello there, I'm Oskar. I'm front-end developer currently based in Wroclaw.
 - 🗓 YouTrack, ClickUp, Notion,
 - 🎨 Figma
 
----
+<br />
 
-## 💡 Personal Projects
+# 💡 Personal Projects
 
 <a style='margin: 32px;' href="https://github.com/kachmashk/old-basketprotocol">
   <img
@@ -23,6 +23,7 @@ Hello there, I'm Oskar. I'm front-end developer currently based in Wroclaw.
     src="https://github-readme-stats.vercel.app/api/pin/?username=kachmashk&repo=old-basketprotocol&theme=dracula"
   />
 </a>
+
 <a style='margin: 32px;' href="https://github.com/kachmashk/csgo_map_picker">
   <img
 		style='width: 40%; margin-top: 18px;'
@@ -36,6 +37,7 @@ Hello there, I'm Oskar. I'm front-end developer currently based in Wroclaw.
     src="https://github-readme-stats.vercel.app/api/pin/?username=kachmashk&repo=openweather-mobile&theme=dracula"
   />
 </a>
+
 <a style='margin: 32px;' href="https://github.com/kachmashk/openweather-api">
   <img
 		style='width: 40%; margin-top: 18px;'
@@ -49,15 +51,15 @@ Hello there, I'm Oskar. I'm front-end developer currently based in Wroclaw.
   />
 </a>
 
----
+<br />
 
-## 👥 Socials
+# 👥 Socials
 
 - [GitHub](https://github.com/kachmashk)
 - [LinkedIn](https://www.linkedin.com/in/oskar-kaczmarzyk/)
 
----
+<br />
 
-## 👀 Visitors Counter
+# 👀 Visitors Counter
 
 <img src="https://profile-counter.glitch.me/kachmashk/count.svg" />
