@@ -1,6 +1,7 @@
 # Something about me 👋
 
 Hello there, I'm Oskar. I'm front-end developer currently based in Wroclaw.
+You can check my resume [here](https://drive.google.com/file/d/1kjGcRN_m5DoYGYW7dlCbgQXh9ckw95r8/view?usp=sharing).
 
 <br />
 
