@@ -1,7 +1,7 @@
 # Something about me 👋
 
 Hello there, I'm Oskar. I'm front-end developer currently based in Wroclaw.
-You can check my resume [here](https://drive.google.com/file/d/1kjGcRN_m5DoYGYW7dlCbgQXh9ckw95r8/view?usp=sharing).
+You can check my resume [here](https://drive.google.com/file/d/1DVp_6rprSEbbvY1zDuAUKMND3bEh5cPh/view?usp=drive_link).
 
 <br />
 
@@ -15,12 +15,17 @@ You can check my resume [here](https://drive.google.com/file/d/1kjGcRN_m5DoYGYW7
 
 # 👨🏻‍💻 Skills
 
-- 🗣 JavaScript, TypeScript, C#, Dart
-- ⚙️ React-Native, ReactJs, Flutter
-- 🌡 Jest, Detox,
-- ☁️ Firebase (Authentication, Firestore, Cloud messaging, App Distribution, Crashlytics), Google Cloud Platform
-- 🗓 YouTrack, ClickUp, Notion,
-- 🎨 Figma
+- English B2,
+- JavaScript, TypeScript
+- ⚙React-Native, ReactJS, Flutter,
+- Redux Toolkit,
+- RTK Query,
+- Jest, Detox,
+- Node.js, bun.sh,
+- Firebase (Authentication, Firestore, Cloud messaging, App Distribution, Crashlytics), Google Cloud Platform,
+- Google Cloud Platform,
+- Figma
+- Jira, YouTrack, ClickUp, Notion
 
 <br />
 
@@ -28,18 +33,12 @@ You can check my resume [here](https://drive.google.com/file/d/1kjGcRN_m5DoYGYW7
 
 [![old-basketprotocol](https://github-readme-stats.vercel.app/api/pin/?username=kachmashk&repo=old-basketprotocol&theme=dracula)](https://github.com/kachmashk/old-basketprotocol)
 
-[![csgo_map_picker](https://github-readme-stats.vercel.app/api/pin/?username=kachmashk&repo=csgo_map_picker&theme=dracula)](https://github.com/kachmashk/csgo_map_picker)
-
-[![openweather-mobile](https://github-readme-stats.vercel.app/api/pin/?username=kachmashk&repo=openweather-mobile&theme=dracula)](https://github.com/kachmashk/openweather-mobile)
-
-[![openweather-api](https://github-readme-stats.vercel.app/api/pin/?username=kachmashk&repo=openweather-api&theme=dracula)](https://github.com/kachmashk/openweather-api)
-
 <br />
 
 # 👥 Socials
 
 - [GitHub](https://github.com/kachmashk)
-- [LinkedIn](https://www.linkedin.com/in/oskar-kaczmarzyk/)
+- [LinkedIn](https://www.linkedin.com/in/kachmashk)
 
 <br />
 
