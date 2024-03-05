@@ -1,6 +1,6 @@
 # Something about me 👋
 
-Hello there, I'm Oskar. I'm front-end developer currently based in Wroclaw.
+Hello there! I'm Oskar and I'm frontend developer currently based in Wrocław.
 You can check my resume [here](https://drive.google.com/file/d/1DVp_6rprSEbbvY1zDuAUKMND3bEh5cPh/view?usp=drive_link).
 
 <br />
@@ -17,7 +17,7 @@ You can check my resume [here](https://drive.google.com/file/d/1DVp_6rprSEbbvY1z
 
 - English B2,
 - JavaScript, TypeScript
-- ⚙React-Native, ReactJS, Flutter,
+- React-Native, ReactJS, Flutter,
 - Redux Toolkit,
 - RTK Query,
 - Jest, Detox,
