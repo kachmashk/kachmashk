@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm Oskar and I'm the software engineer here at @callstack. Everyday working on becoming an expert in React-Native.
+I'm Oskar and I'm the software engineer here at [@callstack](https://www.callstack.com/). Working everyday on becoming an expert in React-Native.
 
 <br />
 
